@@ -1,0 +1,38 @@
+body {
+    margin: 60px auto;
+    max-width: 600px;
+    
+}
+.item-details {
+    display: grid;
+    grid-template-columns: repeat(3, minmax(150px, 1fr)) auto;
+    gap: 12px;
+    border: 1px solid #8810f8;
+}
+.item-details input, 
+.item-details button {
+    padding: 10px;
+}
+.item-details button {
+    color: white;
+    background-color: #8810f8;
+    cursor: pointer;
+    transition: all 150ms ease-in-out
+}
+ul {
+    padding-left: 0;
+}
+li {
+    list-style: none;
+    margin-bottom: 8px;
+    text-transform: capitalize;
+}
+
+@media (max-width: 600px) {
+    body {
+        padding: 10px;
+    }
+    .item-details {
+        grid-template-columns: 1fr;
+    }
+}
