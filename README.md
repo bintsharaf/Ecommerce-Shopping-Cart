@@ -1,6 +1,6 @@
 # Ecommerce-Shopping-Cart
 
-##  Project Overview
+## Project Overview
 A simple web module to manage a shopping cart for an e-commerce application. Users can **add items, update quantities, remove items, and view cart contents**. The project demonstrates **dynamic UI updates, DOM manipulation, and responsive design**.
 
 This project is ideal for learning frontend fundamentals and building **real-world web functionality**.
@@ -8,11 +8,11 @@ This project is ideal for learning frontend fundamentals and building **real-wor
 ---
 
 ## Features
-- **Add items** to the cart with a name, price, and quantity.  
-- **Update items** in the cart (change quantity or name).  
-- **Remove items** from the cart.  
-- **Retrieve items** and display totals dynamically.  
-- **Basic responsive UI** for desktop and mobile screens.  
+- **Add items** to the cart with a name, price, and quantity  
+- **Update items** in the cart (change quantity or name)  
+- **Remove items** from the cart  
+- **Retrieve items** and display totals dynamically  
+- **Basic responsive UI** for desktop and mobile screens  
 
 ---
 
@@ -26,4 +26,4 @@ This project is ideal for learning frontend fundamentals and building **real-wor
 ## How to Run
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/bintsharaf/Ecommerce-Shopping-Cart.git 
+   git clone https://github.com/bintsharaf/Ecommerce-Shopping-Cart.git
