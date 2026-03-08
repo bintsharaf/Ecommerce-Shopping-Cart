@@ -23,6 +23,9 @@ This project is ideal for learning frontend fundamentals and building **real-wor
 
 ---
 
+![Screenshot of the Ecommerce Shopping Cart](screenshot.png.PNG)
+
+---
 ## How to Run
 1. Clone the repository:  
    ```bash
