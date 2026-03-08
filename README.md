@@ -30,3 +30,5 @@ This project is ideal for learning frontend fundamentals and building **real-wor
 1. Clone the repository:  
    ```bash
    git clone https://github.com/bintsharaf/Ecommerce-Shopping-Cart.git
+2.	Open index.html in your web browser.
+3.	Start adding, updating, and removing items in the shopping cart.
